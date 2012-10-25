@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commonentity/commonentity.iml" filepath="$PROJECT_DIR$/commonentity/commonentity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonentity-client/commonentity-client.iml" filepath="$PROJECT_DIR$/commonentity-client/commonentity-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonentity-server/commonentity-server.iml" filepath="$PROJECT_DIR$/commonentity-server/commonentity-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonentitypoc.iml" filepath="$PROJECT_DIR$/commonentitypoc.iml" />
+    </modules>
+  </component>
+</project>
+
